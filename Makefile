@@ -12,7 +12,7 @@ LUCI_DEPENDS:= \
 	+firewall4 \
 	+kmod-nft-tproxy
 
-PKG_NAME:=luci-app-homeproxy
+PKG_NAME:=luci-app-homeproxy-clashapi
 
 define Package/luci-app-homeproxy/conffiles
 /etc/config/homeproxy
