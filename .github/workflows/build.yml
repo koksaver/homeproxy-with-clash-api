@@ -1,4 +1,4 @@
-name: Build ipk for HomeProxy
+name: Build ipk
 
 on:
   workflow_dispatch:
